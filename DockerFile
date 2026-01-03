@@ -1,2 +1,0 @@
-FROM mitmproxy/mitmproxy:latest
-CMD ["mitmweb", "--web-host", "0.0.0.0", "--web-port", "8080", "--no-browser"]
