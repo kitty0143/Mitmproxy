@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: mitmproxy
-    env: docker
-    dockerfilePath: ./Dockerfile
-    port: 8080
