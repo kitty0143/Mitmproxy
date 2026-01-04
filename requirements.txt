@@ -1,4 +1,0 @@
-# requirements.txt
-flask
-mitmproxy==9.0.1
-mitmproxyyy
