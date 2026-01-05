@@ -1,3 +1,0 @@
-flask==3.1.2
-requests==3.32.5
-mitmproxy==9.0.1
